@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 ,ABC
+http://96.242.237.206:8000/play/a08l/index.m3u8
+#EXTINF:-1 ,FOX 5
+http://96.242.237.206:8000/play/a075/index.m3u8
+#EXTINF:-1 ,METV
+http://96.242.237.206:8000/play/a05n/index.m3u8
+#EXTINF:-1 ,NYTV LIFE
+http://96.242.237.206:8000/play/a05g/index.m3u8
+#EXTINF:-1 ,PIX11
+http://96.242.237.206:8000/play/a08o/index.m3u8
+#EXTINF:-1 ,STARTV
+http://96.242.237.206:8000/play/a085/index.m3u8
+#EXTINF:-1 ,TELEMUNDO
+http://96.242.237.206:8000/play/a07a/index.m3u8
+#EXTINF:-1 ,TELEX
+http://96.242.237.206:8000/play/a088/index.m3u8
+#EXTINF:-1 ,UNIMAS
+http://96.242.237.206:8000/play/a08b/index.m3u8
+#EXTINF:-1 ,UNIVISION
+http://96.242.237.206:8000/play/a07t/index.m3u8
+#EXTINF:-1 ,Wnbc
+http://96.242.237.206:8000/play/a07x/index.m3u8
+#EXTINF:-1 ,aliento
+http://96.242.237.206:8000/play/a06d/index.m3u8
